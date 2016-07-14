@@ -1,0 +1,28 @@
+name: Rho test site 2
+favicon: null
+layout_spectrum: 0.8243956465739757
+typography_spectrum: 0.9036886219400913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6948179237078875
+  lightness: 0.6541663685347885
+  saturation: 0.6877627158537507
+  rhythmicContrast: 0.4819385311566293
+purpose: []
